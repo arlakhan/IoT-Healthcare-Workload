@@ -1,8 +1,8 @@
 We have added the dataset detail here into the following way.
 
-======================================================================
+
 HEALTHCARE IoT WORKLOAD DATASET
-======================================================================
+
 
 Number of records: 10000
 Number of devices: 100
@@ -35,9 +35,9 @@ EMG monitoring                  483
 Emergency alert detection       474
 Name: count, dtype: int64
 
-======================================================================
+
 RANGE VALIDATION
-======================================================================
+
 
 Input size: 1.009 to 199.991 KB
 CPU: 200.353 to 3000.0 Mcycles
@@ -46,9 +46,9 @@ Deadline: 50.131 to 499.929 ms
 QoS: 1 to 5
 Arrival rate: 1 to 5 tasks/slot
 
-======================================================================
+
 DATASET CREATED SUCCESSFULLY
-======================================================================
+
 
 File:
 healthcare_iot_workload_10000.xlsx
